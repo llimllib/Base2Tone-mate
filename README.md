@@ -8,5 +8,5 @@ point you should see your new terminal colors.
 
 To generate them yourself, run `gen.sh`
 
-Base on https://github.com/base16-builder/base16-builder and
+Based on https://github.com/base16-builder/base16-builder and
 https://github.com/atelierbram/Base2Tone-iterm2
