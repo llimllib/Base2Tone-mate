@@ -1,4 +1,4 @@
-### Base2Tone mate themes
+### Base2Tone mate-terminal themes
 
 A simple script to generate base2tone themes for mate-terminal. Just grab the
 script you want from `mate-theme-scripts` and run it.
